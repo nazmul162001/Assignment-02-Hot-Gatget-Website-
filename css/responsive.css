@@ -1,0 +1,5 @@
+@media only screen and (max-width: 1000px) {
+    .common-class{
+        padding: 15px 20px;
+    }
+  }
