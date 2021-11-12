@@ -1,3 +1,6 @@
+header{
+    padding-bottom: 100px;
+}
 .carousel-indicators [data-bs-target] {
     background-image: linear-gradient(45deg, orange , peru );
     padding: 5px;
@@ -42,7 +45,9 @@
 .common_class{
     cursor: pointer;
 }
-
+#Product{
+    padding-top: 70px;
+}
 .categories-border{
     width: 100px;
     height: 6px;
