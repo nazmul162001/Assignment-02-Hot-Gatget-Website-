@@ -18,13 +18,13 @@ header{
     padding-left: 5px;
 }
 .carousel-inner{
-    background-image: url("images/bg-1.png");
+    background-image: url("/images/bg-1.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
 }
 .hero{
-    background-image: url("images/bg-2.png");
+    background-image: url("/images/bg-2.png");
     background-repeat: no-repeat;
     background-position:20px 335px;
     background-size: initial;
